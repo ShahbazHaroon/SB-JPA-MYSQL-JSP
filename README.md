@@ -1,7 +1,7 @@
 # SB-JPA-MYSQL-JSP
 Spring Boot + Spring Data JPA + MySQL + JSP
 
-SB = Spring Boot
-JPA = Spring Data JPA
-MySQL = MySQL Server
-JSP = Java Server Pages
+<li>SB = Spring Boot
+<li>JPA = Spring Data JPA
+<li>MySQL = MySQL Server
+<li>JSP = Java Server Pages
