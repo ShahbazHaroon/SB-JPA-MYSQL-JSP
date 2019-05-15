@@ -153,7 +153,7 @@
 				<h3>Manage User Profile</h3>
 				<hr>
 				<form class="form-horizontal" method="POST" action="saveUserProfile">
-					<input type="hidden" name="id" value="${userProfile.userProfileId}" />
+					<input type="hidden" name="userProfileId" value="${userProfile.userProfileId}" />
 
 					<div class="form-group">
 						<label class="control-Label col-md-3">Title: <font
